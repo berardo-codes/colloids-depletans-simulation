@@ -3,9 +3,6 @@
   ----------------------------------------------
   This program simulates the dynamics of hard colloids and depletants on a 2D grid
   using a basic Monte Carlo algorithm with periodic boundary conditions.
-
-  Author: [Your Name]
-  Date: [Auto-generated for GitHub]
 */
 
 #include <stdio.h>
